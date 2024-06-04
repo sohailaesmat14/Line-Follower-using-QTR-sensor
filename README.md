@@ -28,6 +28,10 @@ This project demonstrates a line follower robot using QTR sensors and Arduino. T
    - Open the Arduino IDE and create a new sketch.
    - Copy and paste the provided code into the sketch.
    - Save the sketch with an appropriate name.
+[![Line Follower Robot Demo]](https://github.com/sohailaesmat14/Line-Follower-using-QTR-sensor-/assets/170406386/af4ac1da-f995-4acd-8eaa-6ba3550d823c)
+
+
+
 
 ## Usage:
 
